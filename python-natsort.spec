@@ -1,6 +1,6 @@
 Name:		python-natsort
 Version:	8.4.0
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/n/natsort/natsort-%{version}.tar.gz
 Summary:	Simple yet flexible natural sorting in Python.
 URL:		https://pypi.org/project/natsort/
